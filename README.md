@@ -134,6 +134,6 @@ ai-chatbot-spring/
 
 ## Author
 
-Built by **Thai Dao** ([@daoninhthai](https://github.com/daoninhthai)) — Java Full Stack Developer.
+Java Full Stack Developer.
 
 If you're looking for someone to build AI-powered applications, chatbots, or enterprise backends with Spring Boot, feel free to reach out.
