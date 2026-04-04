@@ -1,4 +1,4 @@
-# AI Chatbot - Spring Boot + React
+# DocuMind - AI Chatbot Spring Boot + React
 
 A production-ready AI chatbot that actually works. Built with Spring Boot 3.4, Spring AI, and React — not another copy-paste tutorial project.
 
