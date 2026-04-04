@@ -4,7 +4,7 @@ A full-stack AI chatbot system built with a focus on **real-world backend engine
 
 ---
 
-## 🔹 Features
+## Features
 
 ### 1. Real-time Chat (SSE Streaming)
 
