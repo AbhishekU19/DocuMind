@@ -1,6 +1,6 @@
 # DocuMind – AI Chatbot (Spring Boot + React)
 
-A full-stack AI chatbot system built with a focus on **real-world backend engineering concerns**: streaming responses, vector search (RAG), authentication, and rate limiting.
+A full-stack AI chatbot system built with a focus on **real-world backend engineering concerns**: streaming responses, vector search (RAG), authentication, and rate limiting. DocuMind is an AI-powered document intelligence platform that enables semantic search and question-answering over uploaded documents using Retrieval-Augmented Generation (RAG). It processes documents into vector embeddings and retrieves relevant context to generate accurate, context-aware responses using LLMs.
 
 ---
 
